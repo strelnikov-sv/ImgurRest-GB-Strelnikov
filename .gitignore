@@ -29,3 +29,8 @@ out
 
 *.allure
 allure-results
+target
+
+resources
+*.properties
+
